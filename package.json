@@ -1,0 +1,13 @@
+{
+  "name": "rpg-api-rafael-ortiz",
+  "version": "1.0.0",
+  "description": "API REST RPG desarrollada por Rafael Ortiz Carvajal",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
